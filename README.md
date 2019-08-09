@@ -1,6 +1,6 @@
 # CALCULATE MATRIX / VECTOR CLASS
 
-# 1. Matrix Class           //Based 4 By 4 Matrix
+1. Matrix Class           //Based 4 By 4 Matrix
 
  - VOID Random()              //getRandom Matrix ( 0 ~ 10 )
  - VOID Print()               //Show Matrix Elements in Consol
@@ -15,7 +15,7 @@
  - operator <<                //Print Matrix's All Elemts Without Any Other Sentense
  
  
- # 2. Vector Class          //Based 3D (x, y, z)
+ 2. Vector Class          //Based 3D (x, y, z)
  
   - operator +        //getVector Between Vectors Sum Vector
   - operator -        //getVector Between Vectors Subtract Vector
