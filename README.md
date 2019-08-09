@@ -26,10 +26,10 @@
  - MATRIX Adjoint()
  getAdjoint About Elements Cofactor Matrix (4by4 Base)
  
- - operator +, -, *           
+ - operator +, -, *
  Each Operator Overriding Calculate Between Matrix
  
- - operator <<                
+ - operator <<
  Print Matrix's All Elemts Without Any Other Sentense
  
  
